@@ -1,0 +1,6 @@
+Django==2.1.1
+docopt==0.6.2
+gitignore==0.0.8
+gunicorn==19.9.0
+pytz==2018.5
+whitenoise==4.1
